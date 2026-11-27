@@ -1,38 +1,61 @@
 <div align="center">
 
-# Hey, I'm Avinav 👋
+# Hi, I'm Avinav 👋
 
-### Learning web development · Building with Reach Orion · Exploring JavaScript and AI tools
+**Learning web development · Building with Reach Orion**
+
+*Currently exploring JavaScript, the MERN stack, and AI tools.*
+
+[![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/Avinav_the_guy)
+[![Reach Orion](https://img.shields.io/badge/Reach%20Orion-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/reachorion)
 
 </div>
 
+---
+
 ## About me
 
-I'm learning web development and building with **Reach Orion**, a web agency. I’m interested in both the technical and business sides of creating useful websites and digital products.
+I’m Avinav, a web development learner building with **Reach Orion**, a web agency. I have experience with HTML, CSS, Python, JavaScript, and Supabase, and I’m currently exploring JavaScript in more depth.
 
-I have experience with **HTML, CSS, Python, JavaScript, and Supabase**. I’m currently exploring JavaScript more deeply and learning how to use it to build interactive web experiences.
+I contribute to Reach Orion across sales and web projects, with some marketing as well. I’m interested in how ideas become useful websites and digital products, from understanding what people need to building the solution.
 
-At Reach Orion, I contribute to sales and web projects, and get involved in some marketing too. I use **VS Code** and AI tools as part of my learning and development workflow.
+I use VS Code and AI tools as part of my learning and development workflow. I’m still growing my skills, and I’ll share more of what I learn and build here.
 
-I’m still growing my skills, and this profile will grow along with the things I learn and make.
+## What I do now
 
-## Languages and tools
+- Contribute to sales and web project work at Reach Orion
+- Explore JavaScript and learn by building
+- Learn more about full-stack development with the MERN stack
+- Experiment with AI tools for learning and development
+
+## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,js,supabase,vscode" alt="HTML, CSS, Python, JavaScript, Supabase, and VS Code" />
+  <img height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img height="48" src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
 </p>
+
+**AI tools:** Part of my learning and development workflow.
 
 ## Currently exploring
 
 - JavaScript
 - The MERN stack
-- AI tools for learning and development
+- AI tools for development
 
-## Reach Orion
+## Find me
 
-**Reach Orion** is a web agency working on websites and digital products. I’m glad to contribute while learning more about development, sales, and marketing.
+- **X:** [@Avinav_the_guy](https://x.com/Avinav_the_guy)
+- **Reach Orion:** [Instagram](https://instagram.com/reachorion)
 
-## Connect with me
+---
 
-- [X](https://x.com/Avinav_the_guy)
-- [Reach Orion on Instagram](https://instagram.com/reachorion)
+<div align="center">
+
+*Learning as I build. Building as I learn.*
+
+</div>
