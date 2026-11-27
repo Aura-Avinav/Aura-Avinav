@@ -7,6 +7,7 @@
 *Learning web development · Currently exploring JavaScript*
 
 [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/Avinav_the_guy)
+
 [![Reach Orion](https://img.shields.io/badge/Reach%20Orion-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/reachorion)
 
 </div>
