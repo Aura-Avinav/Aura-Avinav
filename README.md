@@ -58,7 +58,7 @@ Headless CMS —
 
 ## Find me
 
-- **Personal X:** [X](https://x.com/Avinav_the_guy)
+- **Personal X:** [X](https://x.com/avinavvraj)
 - **Reach Orion:** [Instagram](https://instagram.com/reachorion)
 
 ---
