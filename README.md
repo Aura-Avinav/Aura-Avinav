@@ -32,7 +32,7 @@ We build:
 
 ## Tech stack and tools
 
-<p>
+<p align="center">
   <img height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img height="48" src="https://skillicons.dev/icons?i=python" alt="Python" />
