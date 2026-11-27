@@ -40,14 +40,14 @@ We build:
   <img height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
   <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
 </p>
-
+<div align="center">
 ## Headless CMS
 
 ![Payload CMS 3.0](https://img.shields.io/badge/Payload_CMS-3.0-111111?style=flat-square)
 ![Sanity](https://img.shields.io/badge/Sanity-EE5A3C?style=flat-square)
 ![Strapi 5](https://img.shields.io/badge/Strapi-5-4945FF?style=flat-square)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square)
-
+</div>
 ## Currently exploring
 
 - JavaScript
