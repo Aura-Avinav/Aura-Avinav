@@ -41,7 +41,7 @@ We build:
   <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
 </p>
 
- Headless CMS —
+
 Headless CMS —
 ![Payload CMS 3.0](https://img.shields.io/badge/Payload_CMS-3.0-111111?style=flat-square)
 ![Sanity](https://img.shields.io/badge/Sanity-EE5A3C?style=flat-square)
