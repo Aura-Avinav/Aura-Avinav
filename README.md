@@ -20,7 +20,7 @@ I’m interested in how thoughtful design, clear strategy, and technology come t
 
 ## What I do now
 
-I’m a **UI/UX Designer and Strategy Analyst at [Reach Orion](https://instagram.com/reachorion)**, an IT and web studio.
+I’m a **UI/UX Designer and Strategy Analyst at [Reach Orion](https://reachorion.net)**, an IT and web studio.
 
 We build:
 
@@ -56,7 +56,7 @@ We build:
 
 ## Find me
 
-- **X:** [@Avinav_the_guy](https://x.com/Avinav_the_guy)
+- **Personal X:** [X](https://x.com/Avinav_the_guy)
 - **Reach Orion:** [Instagram](https://instagram.com/reachorion)
 
 ---
