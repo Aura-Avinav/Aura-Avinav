@@ -42,7 +42,7 @@ We build:
 </p>
 
  Headless CMS —
-
+Headless CMS —
 ![Payload CMS 3.0](https://img.shields.io/badge/Payload_CMS-3.0-111111?style=flat-square)
 ![Sanity](https://img.shields.io/badge/Sanity-EE5A3C?style=flat-square)
 ![Strapi 5](https://img.shields.io/badge/Strapi-5-4945FF?style=flat-square)
